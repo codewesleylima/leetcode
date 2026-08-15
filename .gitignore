@@ -1,0 +1,11 @@
+*.class
+target/
+build/
+out/
+.vscode/
+.idea/
+*.iml
+
+# Local-only operating manual, never tracked
+CLAUDE.md
+estudos-google.md
